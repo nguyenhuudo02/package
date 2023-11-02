@@ -3,7 +3,7 @@
         'name' => 'nguyenhuudo/nguyenhuudo',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'de1138bf421a1980e1116e3040741fd6dee4d5d8',
+        'reference' => '8ea1edf18f66cc1a9e8e15393f1d5c6c1aa5689b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'nguyenhuudo/nguyenhuudo' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'de1138bf421a1980e1116e3040741fd6dee4d5d8',
+            'reference' => '8ea1edf18f66cc1a9e8e15393f1d5c6c1aa5689b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
