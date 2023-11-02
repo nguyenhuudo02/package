@@ -23,6 +23,9 @@
                     "Nguyenhuudo\\Packages\\": "src/"
                 }
             },
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "nguyenhuudo02",
