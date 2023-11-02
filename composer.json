@@ -11,6 +11,7 @@
             "email": "nguyenhoanganhdo123@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
         "php": ">=7.2",
         "nguyenhuudo/packages": "@dev"
