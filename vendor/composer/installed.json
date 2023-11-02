@@ -2,8 +2,8 @@
     "packages": [
         {
             "name": "nguyenhuudo/packages",
-            "version": "dev-master",
-            "version_normalized": "dev-master",
+            "version": "v1.0.0",
+            "version_normalized": "1.0.0.0",
             "dist": {
                 "type": "path",
                 "url": "packages",
@@ -19,6 +19,9 @@
                     "Nguyenhuudo\\Packages\\": "src/"
                 }
             },
+            "license": [
+                "MIT"
+            ],
             "authors": [
                 {
                     "name": "nguyenhuudo02",
