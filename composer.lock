@@ -1,0 +1,50 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "df984514f7edc4a1ecaf86b48d4d8d69",
+    "packages": [
+        {
+            "name": "nguyenhuudo/packages",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "packages",
+                "reference": "e1649248a662cdcbf939621f917670702bb6494f"
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Nguyenhuudo\\Packages\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "nguyenhuudo02",
+                    "email": "nguyenhoanganhdo123@gmail.com"
+                }
+            ],
+            "transport-options": {
+                "relative": true
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "nguyenhuudo/packages": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.2"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}

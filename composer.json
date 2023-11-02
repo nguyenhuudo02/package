@@ -1,0 +1,24 @@
+{
+    "name": "nguyenhuudo/nguyenhuudo",
+    "autoload": {
+        "psr-4": {
+            "Nguyenhuudo\\Nguyenhuudo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nguyenhuudo02",
+            "email": "nguyenhoanganhdo123@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "nguyenhuudo/packages": "@dev"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "packages/"
+        }
+    ]
+}

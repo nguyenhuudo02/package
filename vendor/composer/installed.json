@@ -1,0 +1,36 @@
+{
+    "packages": [
+        {
+            "name": "nguyenhuudo/packages",
+            "version": "dev-master",
+            "version_normalized": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "packages",
+                "reference": "e1649248a662cdcbf939621f917670702bb6494f"
+            },
+            "require": {
+                "php": ">=7.2"
+            },
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Nguyenhuudo\\Packages\\": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "nguyenhuudo02",
+                    "email": "nguyenhoanganhdo123@gmail.com"
+                }
+            ],
+            "transport-options": {
+                "relative": true
+            },
+            "install-path": "../nguyenhuudo/packages"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
